@@ -6,3 +6,15 @@ div{
 div{
   margin-top: 2rem;
 }
+
+ul{
+  background-color: blue;
+  list-style: square;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+}
